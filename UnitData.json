@@ -1,0 +1,2813 @@
+[
+    {
+        "name": "aatrox",
+        "healthBarHeight": 140.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6510000228881836,
+        "attackSpeedRatio": 0.6510000228881836,
+        "acquisitionRange": 475.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.19736843137199542,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "ahri",
+        "healthBarHeight": 94.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.6679999828338623,
+        "attackSpeedRatio": 0.6679999828338623,
+        "acquisitionRange": 525.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1750.0,
+        "basicAtkWindup": 0.20053500235080718,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "akali",
+        "healthBarHeight": 105.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 30.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.13900000154972075,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "akshan",
+        "healthBarHeight": 112.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 500.0,
+        "attackSpeed": 0.6380000114440918,
+        "attackSpeedRatio": 0.4000000059604645,
+        "acquisitionRange": 0.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1600.0,
+        "basicAtkWindup": 0.13333333532015482,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "alistar",
+        "healthBarHeight": 120.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 145.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.3,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "amumu",
+        "healthBarHeight": 68.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.7360000014305115,
+        "attackSpeedRatio": 0.6380000114440918,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 30.0,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.23384353816509246,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "anivia",
+        "healthBarHeight": 120.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 600.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 140.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1500.0,
+        "basicAtkWindup": 0.19999999850988387,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "annie",
+        "healthBarHeight": 85.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 625.0,
+        "attackSpeed": 0.5789999961853027,
+        "attackSpeedRatio": 0.5789999961853027,
+        "acquisitionRange": 625.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 30.0,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 1200.0,
+        "basicAtkWindup": 0.19579475671052932,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "aphelios",
+        "healthBarHeight": 130.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.6399999856948853,
+        "attackSpeedRatio": 0.6399999856948853,
+        "acquisitionRange": 0.0,
+        "selectionRadius": 110.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.15333333611488342,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "ashe",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 600.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2500.0,
+        "basicAtkWindup": 0.21929824650287627,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "aurelionsol",
+        "healthBarHeight": 120.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 165.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 4000.0,
+        "basicAtkWindup": 0.15333333611488342,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "azir",
+        "healthBarHeight": 95.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.6940000057220459,
+        "acquisitionRange": 700.0,
+        "selectionRadius": 88.88890075683594,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2600.0,
+        "basicAtkWindup": 0.1562499976716936,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "bard",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 500.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 88.88890075683594,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.18750000465661282,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "belveth",
+        "healthBarHeight": 90.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.8500000238418579,
+        "attackSpeedRatio": 0.8500000238418579,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 467.0,
+        "basicAtkWindup": 0.24752475481245545,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "blitzcrank",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 165.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.27000000067055224,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "brand",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 88.88890075683594,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.18750000298023223,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "braum",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6439999938011169,
+        "attackSpeedRatio": 0.6439999938011169,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.22999999970197677,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "briar",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6439999938011169,
+        "attackSpeedRatio": 0.6439999938011169,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 111.11109924316406,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.19317451196345456,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "caitlyn",
+        "healthBarHeight": 99.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 650.0,
+        "attackSpeed": 0.6809999942779541,
+        "attackSpeedRatio": 0.5680000185966492,
+        "acquisitionRange": 800.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2500.0,
+        "basicAtkWindup": 0.17708333134651183,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "camille",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6439999938011169,
+        "attackSpeedRatio": 0.6439999938011169,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 467.0,
+        "basicAtkWindup": 0.19329897105180688,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "cassiopeia",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 328.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.6470000147819519,
+        "attackSpeedRatio": 0.6470000147819519,
+        "acquisitionRange": 550.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1200.0,
+        "basicAtkWindup": 0.19199999719858168,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "chogath",
+        "healthBarHeight": 93.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 130.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.2189999997615814,
+        "tags": [
+            "Unit_Champion",
+            "Unit_Special_Void"
+        ]
+    },
+    {
+        "name": "corki",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.6380000114440918,
+        "attackSpeedRatio": 0.6380000114440918,
+        "acquisitionRange": 500.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.09999999701976775,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "darius",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 25.766599655151367,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.19999999850988387,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "diana",
+        "healthBarHeight": 90.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 150.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 75.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.20833333134651183,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "draven",
+        "healthBarHeight": 105.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.6790000200271606,
+        "attackSpeedRatio": 0.6790000200271606,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 111.11109924316406,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1600.0,
+        "basicAtkWindup": 0.15614392154038143,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "drmundo",
+        "healthBarHeight": 120.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6700000166893005,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.16031250655651091,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "ekko",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6880000233650208,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.16249999161809695,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "elise",
+        "healthBarHeight": 117.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 550.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1600.0,
+        "basicAtkWindup": 0.18750000298023223,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "evelynn",
+        "healthBarHeight": 90.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6669999957084656,
+        "attackSpeedRatio": 0.6669999957084656,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 467.0,
+        "basicAtkWindup": 0.15333333611488342,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "ezreal",
+        "healthBarHeight": 90.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 550.0,
+        "selectionRadius": 115.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.1883865252137184,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "fiddlesticks",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 480.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 520.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.3,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "fiora",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 150.0,
+        "attackSpeed": 0.6899999976158142,
+        "attackSpeedRatio": 0.6899999976158142,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 467.0,
+        "basicAtkWindup": 0.1379310320021849,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "fizz",
+        "healthBarHeight": 80.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 108.33329772949219,
+        "pathingRadius": 30.0,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.20299999713897704,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "galio",
+        "healthBarHeight": 135.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 150.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.2062500051222741,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "gangplank",
+        "healthBarHeight": 105.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6899999976158142,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 85.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.1644736862743991,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "garen",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 75.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.180000002682209,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "gnar",
+        "healthBarHeight": 80.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 30.0,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 1500.0,
+        "basicAtkWindup": 0.14600000083446502,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "gragas",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.675000011920929,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 155.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.24999999925494193,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "graves",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 425.0,
+        "attackSpeed": 0.4749999940395355,
+        "attackSpeedRatio": 0.49000000953674316,
+        "acquisitionRange": 0.0,
+        "selectionRadius": 110.0,
+        "pathingRadius": 10.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 3000.0,
+        "basicAtkWindup": 0.0050000131130218395,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "gwen",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 150.0,
+        "attackSpeed": 0.6899999976158142,
+        "attackSpeedRatio": 0.6899999976158142,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 467.0,
+        "basicAtkWindup": 0.19672132236795462,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "hecarim",
+        "healthBarHeight": 120.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6700000166893005,
+        "attackSpeedRatio": 0.6700000166893005,
+        "acquisitionRange": 0.0,
+        "selectionRadius": 140.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.24999999925494193,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "heimerdinger",
+        "healthBarHeight": 87.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 550.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 30.54439926147461,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 1500.0,
+        "basicAtkWindup": 0.2007812514901161,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "illaoi",
+        "healthBarHeight": 112.0,
+        "baseMoveSpeed": 350.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 467.0,
+        "basicAtkWindup": 0.21428571428571427,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "irelia",
+        "healthBarHeight": 101.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 200.0,
+        "attackSpeed": 0.656000018119812,
+        "attackSpeedRatio": 0.656000018119812,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 467.0,
+        "basicAtkWindup": 0.19672132236795462,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "ivern",
+        "healthBarHeight": 135.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 475.0,
+        "attackSpeed": 0.6439999938011169,
+        "attackSpeedRatio": 0.6439999938011169,
+        "acquisitionRange": 0.0,
+        "selectionRadius": 140.0,
+        "pathingRadius": 40.0,
+        "gameplayRadius": 70.0,
+        "basicAtkMissileSpeed": 4000.0,
+        "basicAtkWindup": 0.22999999970197677,
+        "tags": [
+            "Unit_Champion",
+            "Unit_Special_MonsterIgnores"
+        ]
+    },
+    {
+        "name": "janna",
+        "healthBarHeight": 120.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 500.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 500.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1600.0,
+        "basicAtkWindup": 0.22000000178813933,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "jarvaniv",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 20.0,
+        "basicAtkWindup": 0.17544000148773192,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "jax",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 350.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6380000114440918,
+        "attackSpeedRatio": 0.6380000114440918,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 400.0,
+        "basicAtkWindup": 0.20810956060886382,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "jayce",
+        "healthBarHeight": 120.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 200.0,
+        "selectionRadius": 75.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.09500000178813933,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "jhin",
+        "healthBarHeight": 105.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.0,
+        "acquisitionRange": 800.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2600.0,
+        "basicAtkWindup": 0.1562499976716936,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "jinx",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 550.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2750.0,
+        "basicAtkWindup": 0.1770812432902866,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "kaisa",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.6439999938011169,
+        "attackSpeedRatio": 0.6439999938011169,
+        "acquisitionRange": 800.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 40.68000030517578,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.1610824694756635,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "kalista",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.6940000057220459,
+        "attackSpeedRatio": 0.6940000057220459,
+        "acquisitionRange": 900.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2600.0,
+        "basicAtkWindup": 0.3599999986588955,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "karma",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 525.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1500.0,
+        "basicAtkWindup": 0.16145833134651183,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "karthus",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 450.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 450.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1200.0,
+        "basicAtkWindup": 0.3,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "kassadin",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 150.0,
+        "attackSpeed": 0.6399999856948853,
+        "attackSpeedRatio": 0.6399999856948853,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.1499999940395355,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "katarina",
+        "healthBarHeight": 90.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 467.0,
+        "basicAtkWindup": 0.1499999940395355,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "kayle",
+        "healthBarHeight": 160.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.6669999957084656,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 140.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.19354840074195864,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "kayn",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6690000295639038,
+        "attackSpeedRatio": 0.6690000295639038,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.1872909700996789,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "kennen",
+        "healthBarHeight": 93.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.6899999976158142,
+        "acquisitionRange": 550.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 30.0,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 1700.0,
+        "basicAtkWindup": 0.19999999850988387,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "khazix",
+        "healthBarHeight": 90.0,
+        "baseMoveSpeed": 350.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6679999828338623,
+        "attackSpeedRatio": 0.6679999828338623,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 130.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.20053475648164748,
+        "tags": [
+            "Unit_Champion",
+            "Unit_Special_Void"
+        ]
+    },
+    {
+        "name": "kindred",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 500.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 525.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.1754386007785797,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "kled",
+        "healthBarHeight": 130.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 0.0,
+        "selectionRadius": 140.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.17499999813735487,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "kogmaw",
+        "healthBarHeight": 93.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 500.0,
+        "attackSpeed": 0.6650000214576721,
+        "attackSpeedRatio": 0.6650000214576721,
+        "acquisitionRange": 900.0,
+        "selectionRadius": 130.0,
+        "pathingRadius": 30.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1800.0,
+        "basicAtkWindup": 0.16622340977191924,
+        "tags": [
+            "Unit_Champion",
+            "Unit_Special_Void"
+        ]
+    },
+    {
+        "name": "ksante",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 102.77780151367188,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.19531250298023223,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "leblanc",
+        "healthBarHeight": 95.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.4000000059604645,
+        "acquisitionRange": 525.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1700.0,
+        "basicAtkWindup": 0.16666665971279143,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "leesin",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6510000228881836,
+        "attackSpeedRatio": 0.6510000228881836,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 102.77780151367188,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.19531250298023223,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "leona",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 75.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.22916666716337203,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "lillia",
+        "healthBarHeight": 120.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 325.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.14705881940452298,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "lissandra",
+        "healthBarHeight": 120.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.656000018119812,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 88.88890075683594,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.18750000298023223,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "lucian",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 500.0,
+        "attackSpeed": 0.6380000114440918,
+        "attackSpeedRatio": 0.6380000114440918,
+        "acquisitionRange": 800.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 40.68000030517578,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2800.0,
+        "basicAtkWindup": 0.1499999940395355,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "lulu",
+        "healthBarHeight": 85.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 625.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 30.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1450.0,
+        "basicAtkWindup": 0.18750000298023223,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "lux",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.6690000295639038,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 625.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1600.0,
+        "basicAtkWindup": 0.15625000298023223,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "malphite",
+        "healthBarHeight": 115.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.7360000014305115,
+        "attackSpeedRatio": 0.6380000114440918,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 1000.0,
+        "basicAtkWindup": 0.2496811218559742,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "malzahar",
+        "healthBarHeight": 115.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 500.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 88.88890075683594,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.19000000059604644,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "maokai",
+        "healthBarHeight": 120.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.800000011920929,
+        "attackSpeedRatio": 0.6949999928474426,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.3,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "masteryi",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 355.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6790000200271606,
+        "attackSpeedRatio": 0.6790000200271606,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.2439999982714653,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "milio",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 550.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1000.0,
+        "basicAtkWindup": 0.17142857305046647,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "missfortune",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.656000018119812,
+        "attackSpeedRatio": 0.656000018119812,
+        "acquisitionRange": 800.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.14800663590431212,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "monkeyking",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6899999976158142,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 20.0,
+        "basicAtkWindup": 0.20833333134651183,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "mordekaiser",
+        "healthBarHeight": 120.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.21132714002597613,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "morgana",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 450.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1600.0,
+        "basicAtkWindup": 0.14000000357627868,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "naafiri",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6629999876022339,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 111.11109924316406,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.17241378743356547,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "nami",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.6439999938011169,
+        "attackSpeedRatio": 0.6439999938011169,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1500.0,
+        "basicAtkWindup": 0.180000002682209,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "nasus",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 350.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6380000114440918,
+        "attackSpeedRatio": 0.6380000114440918,
+        "acquisitionRange": 350.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.20139634907245635,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "nautilus",
+        "healthBarHeight": 135.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.7059999704360962,
+        "attackSpeedRatio": 0.6119999885559082,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 1000.0,
+        "basicAtkWindup": 0.3063725491054356,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "neeko",
+        "healthBarHeight": 111.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.6700000166893005,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 90.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.2148387190553825,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "nidalee",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.6380000114440918,
+        "attackSpeedRatio": 0.6380000114440918,
+        "acquisitionRange": 0.0,
+        "selectionRadius": 110.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2500.0,
+        "basicAtkWindup": 0.1499999940395355,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "nilah",
+        "healthBarHeight": 103.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 225.0,
+        "attackSpeed": 0.6970000267028809,
+        "attackSpeedRatio": 0.6700000166893005,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 75.0,
+        "pathingRadius": 32.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.22000000178813933,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "nocturne",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.7210000157356262,
+        "attackSpeedRatio": 0.7210000157356262,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.20053475648164748,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "nunu",
+        "healthBarHeight": 140.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 140.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.19358600229024886,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "olaf",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 350.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6940000057220459,
+        "attackSpeedRatio": 0.6940000057220459,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 111.11109924316406,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.23437500298023223,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "orianna",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 525.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1450.0,
+        "basicAtkWindup": 0.1754385933279991,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "ornn",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 25.766599655151367,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.2187499930150808,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "pantheon",
+        "healthBarHeight": 137.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 20.0,
+        "basicAtkWindup": 0.1903125002980232,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "poppy",
+        "healthBarHeight": 80.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 95.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.2343749965075404,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "pyke",
+        "healthBarHeight": 99.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 150.0,
+        "attackSpeed": 0.6669999957084656,
+        "attackSpeedRatio": 0.6669999957084656,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.20000000794728598,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "qiyana",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 150.0,
+        "attackSpeed": 0.6880000233650208,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 0.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.15333333611488342,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "quinn",
+        "healthBarHeight": 105.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.6679999828338623,
+        "attackSpeedRatio": 0.6679999828338623,
+        "acquisitionRange": 0.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.1754386007785797,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "rakan",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 300.0,
+        "attackSpeed": 0.6349999904632568,
+        "attackSpeedRatio": 0.6349999904632568,
+        "acquisitionRange": 475.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1000.0,
+        "basicAtkWindup": 0.17142857305046647,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "rammus",
+        "healthBarHeight": 85.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.656000018119812,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.22916666716337203,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "reksai",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6669999957084656,
+        "attackSpeedRatio": 0.6669999957084656,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 30.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.26666667064030963,
+        "tags": [
+            "Unit_Champion",
+            "Unit_Special_Void"
+        ]
+    },
+    {
+        "name": "rell",
+        "healthBarHeight": 135.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.20999999344348907,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "renata",
+        "healthBarHeight": 105.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 550.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1800.0,
+        "basicAtkWindup": 0.1879999965429306,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "renekton",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6650000214576721,
+        "attackSpeedRatio": 0.6650000214576721,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.17730496376752852,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "rengar",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6669999957084656,
+        "attackSpeedRatio": 0.6669999957084656,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 70.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.20000000794728598,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "riven",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 130.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.16666665971279143,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "rumble",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6439999938011169,
+        "attackSpeedRatio": 0.6439999938011169,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 165.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.22916666716337203,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "ryze",
+        "healthBarHeight": 115.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 575.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2400.0,
+        "basicAtkWindup": 0.19999999850988387,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "samira",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 500.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 800.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 40.68000030517578,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2800.0,
+        "basicAtkWindup": 0.1499999940395355,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "sejuani",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 150.0,
+        "attackSpeed": 0.6880000233650208,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 0.0,
+        "selectionRadius": 140.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.18750000465661282,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "senna",
+        "healthBarHeight": 90.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 600.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.4000000059604645,
+        "acquisitionRange": 800.0,
+        "selectionRadius": 115.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 8000.0,
+        "basicAtkWindup": 0.3437500023283064,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "seraphine",
+        "healthBarHeight": 130.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.6690000295639038,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 525.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.18700000196695327,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "sett",
+        "healthBarHeight": 112.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 20.0,
+        "basicAtkWindup": 0.21428571428571427,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "shaco",
+        "healthBarHeight": 93.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6940000057220459,
+        "attackSpeedRatio": 0.6940000057220459,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.22150383442640303,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "shen",
+        "healthBarHeight": 105.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.7509999871253967,
+        "attackSpeedRatio": 0.6510000228881836,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.1736067724845715,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "shyvana",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 350.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 467.0,
+        "basicAtkWindup": 0.19736842364072799,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "singed",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6129999756813049,
+        "attackSpeedRatio": 0.6129999756813049,
+        "acquisitionRange": 300.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 700.0,
+        "basicAtkWindup": 0.2361487329006195,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "sion",
+        "healthBarHeight": 125.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6790000200271606,
+        "attackSpeedRatio": 0.6790000200271606,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 25.766599655151367,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.2490942023694515,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "sivir",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 500.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 500.0,
+        "selectionRadius": 115.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1750.0,
+        "basicAtkWindup": 0.11999999284744262,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "skarner",
+        "healthBarHeight": 85.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 130.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.180000002682209,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "sona",
+        "healthBarHeight": 113.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.6439999938011169,
+        "attackSpeedRatio": 0.6439999938011169,
+        "acquisitionRange": 800.0,
+        "selectionRadius": 110.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1500.0,
+        "basicAtkWindup": 0.1718212991952896,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "soraka",
+        "healthBarHeight": 105.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 110.0,
+        "pathingRadius": 44.20000076293945,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1000.0,
+        "basicAtkWindup": 0.18700000196695327,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "swain",
+        "healthBarHeight": 105.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 525.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1800.0,
+        "basicAtkWindup": 0.14000000357627868,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "sylas",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6449999809265137,
+        "attackSpeedRatio": 0.6449999809265137,
+        "acquisitionRange": 525.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1750.0,
+        "basicAtkWindup": 0.1677419344914939,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "syndra",
+        "healthBarHeight": 130.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 575.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1800.0,
+        "basicAtkWindup": 0.18750000298023223,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "tahmkench",
+        "healthBarHeight": 105.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.2501645700272541,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "taliyah",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 550.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2100.0,
+        "basicAtkWindup": 0.16145833134651183,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "talon",
+        "healthBarHeight": 95.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.12374999748542909,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "taric",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 150.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 350.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.180000002682209,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "teemo",
+        "healthBarHeight": 75.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 500.0,
+        "attackSpeed": 0.6899999976158142,
+        "attackSpeedRatio": 0.6899999976158142,
+        "acquisitionRange": 500.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 30.0,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 1300.0,
+        "basicAtkWindup": 0.21574340313673018,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "thresh",
+        "healthBarHeight": 105.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 450.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 475.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 36.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1000.0,
+        "basicAtkWindup": 0.23958333134651183,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "tristana",
+        "healthBarHeight": 80.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.656000018119812,
+        "attackSpeedRatio": 0.6790000200271606,
+        "acquisitionRange": 800.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 30.0,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 2250.0,
+        "basicAtkWindup": 0.14800000488758086,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "trundle",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 350.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6700000166893005,
+        "attackSpeedRatio": 0.6700000166893005,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 25.766599655151367,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.20833333134651183,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "tryndamere",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6700000166893005,
+        "attackSpeedRatio": 0.6700000166893005,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.19000000059604644,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "twistedfate",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.6510000228881836,
+        "attackSpeedRatio": 0.6510000228881836,
+        "acquisitionRange": 0.0,
+        "selectionRadius": 110.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1500.0,
+        "basicAtkWindup": 0.24403561949729918,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "twitch",
+        "healthBarHeight": 85.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.6790000200271606,
+        "attackSpeedRatio": 0.6790000200271606,
+        "acquisitionRange": 575.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2500.0,
+        "basicAtkWindup": 0.2019159823656082,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "udyr",
+        "healthBarHeight": 117.0,
+        "baseMoveSpeed": 350.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6499999761581421,
+        "attackSpeedRatio": 0.6499999761581421,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 467.0,
+        "basicAtkWindup": 0.19800000190734862,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "urgot",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 350.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 550.0,
+        "selectionRadius": 136.11109924316406,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 2500.0,
+        "basicAtkWindup": 0.1499999940395355,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "varus",
+        "healthBarHeight": 95.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 575.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.1754385933279991,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "vayne",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 575.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.1754385933279991,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "veigar",
+        "healthBarHeight": 90.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 525.0,
+        "selectionRadius": 93.0,
+        "pathingRadius": 30.0,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 1100.0,
+        "basicAtkWindup": 0.19093749970197677,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "velkoz",
+        "healthBarHeight": 125.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 575.0,
+        "selectionRadius": 88.88890075683594,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 8000.0,
+        "basicAtkWindup": 0.19999999850988387,
+        "tags": [
+            "Unit_Champion",
+            "Unit_Special_Void"
+        ]
+    },
+    {
+        "name": "vex",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.6690000295639038,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 0.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.1562499976716936,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "vi",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6439999938011169,
+        "attackSpeedRatio": 0.6439999938011169,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1000.0,
+        "basicAtkWindup": 0.22500000558793537,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "viego",
+        "healthBarHeight": 104.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 200.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 775.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 20.0,
+        "basicAtkWindup": 0.1644736862743991,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "viktor",
+        "healthBarHeight": 115.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 525.0,
+        "selectionRadius": 160.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2300.0,
+        "basicAtkWindup": 0.180000002682209,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "vladimir",
+        "healthBarHeight": 95.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 450.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1600.0,
+        "basicAtkWindup": 0.19736843137199542,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "volibear",
+        "healthBarHeight": 124.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 150.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.699999988079071,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 467.0,
+        "basicAtkWindup": 0.3,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "warwick",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6380000114440918,
+        "attackSpeedRatio": 0.6380000114440918,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 111.11109924316406,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.175,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "xayah",
+        "healthBarHeight": 105.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.6579999923706055,
+        "acquisitionRange": 800.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2500.0,
+        "basicAtkWindup": 0.17687499259598563,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "xerath",
+        "healthBarHeight": 120.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 525.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 88.88890075683594,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 2000.0,
+        "basicAtkWindup": 0.250739998370409,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "xinzhao",
+        "healthBarHeight": 92.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6449999809265137,
+        "attackSpeedRatio": 0.6449999809265137,
+        "acquisitionRange": 600.0,
+        "selectionRadius": 108.33329772949219,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 20.0,
+        "basicAtkWindup": 0.1870967745656898,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "yasuo",
+        "healthBarHeight": 103.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.6970000267028809,
+        "attackSpeedRatio": 0.6700000166893005,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 75.0,
+        "pathingRadius": 32.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.22000000178813933,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "yone",
+        "healthBarHeight": 103.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 75.0,
+        "pathingRadius": 32.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 347.79998779296875,
+        "basicAtkWindup": 0.22000000178813933,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "yorick",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 125.0,
+        "pathingRadius": 50.0,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 0.0,
+        "basicAtkWindup": 0.2062500051222741,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "yuumi",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 425.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 525.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1500.0,
+        "basicAtkWindup": 0.1562499976716936,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "zac",
+        "healthBarHeight": 113.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 175.0,
+        "attackSpeed": 0.7360000014305115,
+        "attackSpeedRatio": 0.6380000114440918,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 90.0,
+        "pathingRadius": 43.07490158081055,
+        "gameplayRadius": 80.0,
+        "basicAtkMissileSpeed": 1000.0,
+        "basicAtkWindup": 0.23150511159259435,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "zed",
+        "healthBarHeight": 95.0,
+        "baseMoveSpeed": 345.0,
+        "attackRange": 125.0,
+        "attackSpeed": 0.6510000228881836,
+        "attackSpeedRatio": 0.6510000228881836,
+        "acquisitionRange": 400.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 467.0,
+        "basicAtkWindup": 0.19759449660778045,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "zeri",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 330.0,
+        "attackRange": 500.0,
+        "attackSpeed": 0.6579999923706055,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 800.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 40.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 8000.0,
+        "basicAtkWindup": 0.1562499976716936,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "ziggs",
+        "healthBarHeight": 78.0,
+        "baseMoveSpeed": 325.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.656000018119812,
+        "attackSpeedRatio": 0.656000018119812,
+        "acquisitionRange": 800.0,
+        "selectionRadius": 100.0,
+        "pathingRadius": 30.0,
+        "gameplayRadius": 55.0,
+        "basicAtkMissileSpeed": 1500.0,
+        "basicAtkWindup": 0.20833333134651183,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "zilean",
+        "healthBarHeight": 108.0,
+        "baseMoveSpeed": 335.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 550.0,
+        "selectionRadius": 135.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1200.0,
+        "basicAtkWindup": 0.180000002682209,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "zoe",
+        "healthBarHeight": 110.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 550.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 550.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1600.0,
+        "basicAtkWindup": 0.16145833134651183,
+        "tags": [
+            "Unit_Champion"
+        ]
+    },
+    {
+        "name": "zyra",
+        "healthBarHeight": 100.0,
+        "baseMoveSpeed": 340.0,
+        "attackRange": 575.0,
+        "attackSpeed": 0.625,
+        "attackSpeedRatio": 0.625,
+        "acquisitionRange": 575.0,
+        "selectionRadius": 120.0,
+        "pathingRadius": 35.0,
+        "gameplayRadius": 65.0,
+        "basicAtkMissileSpeed": 1700.0,
+        "basicAtkWindup": 0.14583333134651183,
+        "tags": [
+            "Unit_Champion"
+        ]
+    }
+]
