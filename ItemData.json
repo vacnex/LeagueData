@@ -14,7 +14,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 25
   },
   {
     "id": 1004,
@@ -31,7 +32,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1006,
@@ -48,7 +50,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1011,
@@ -65,7 +68,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1018,
@@ -82,7 +86,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1026,
@@ -99,7 +104,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1027,
@@ -116,7 +122,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1028,
@@ -133,7 +140,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1029,
@@ -150,7 +158,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1031,
@@ -167,7 +176,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1033,
@@ -184,7 +194,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1035,
@@ -201,7 +212,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1036,
@@ -218,7 +230,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1037,
@@ -235,7 +248,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1038,
@@ -252,7 +266,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1039,
@@ -269,7 +284,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1040,
@@ -286,7 +302,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1042,
@@ -303,7 +320,8 @@
     "attackSpeed": 0.12,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1043,
@@ -320,7 +338,8 @@
     "attackSpeed": 0.15,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1052,
@@ -337,7 +356,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1053,
@@ -354,7 +374,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.07,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1054,
@@ -371,7 +392,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.8,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1055,
@@ -388,7 +410,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1056,
@@ -405,7 +428,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1057,
@@ -422,7 +446,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1058,
@@ -439,7 +464,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1082,
@@ -456,7 +482,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1083,
@@ -473,7 +500,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1101,
@@ -490,7 +518,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1102,
@@ -507,7 +536,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1103,
@@ -524,7 +554,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1104,
@@ -541,7 +572,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1500,
@@ -558,7 +590,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1501,
@@ -575,7 +608,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1502,
@@ -592,7 +626,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1503,
@@ -609,7 +644,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1504,
@@ -626,7 +662,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1506,
@@ -643,7 +680,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1507,
@@ -660,7 +698,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1508,
@@ -677,7 +716,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1509,
@@ -694,7 +734,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1510,
@@ -711,7 +752,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1511,
@@ -728,7 +770,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1512,
@@ -745,7 +788,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1515,
@@ -762,7 +806,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1516,
@@ -779,7 +824,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1517,
@@ -796,7 +842,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1518,
@@ -813,7 +860,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1519,
@@ -830,7 +878,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1520,
@@ -847,7 +896,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1521,
@@ -864,7 +914,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 1522,
@@ -881,7 +932,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2003,
@@ -898,7 +950,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2010,
@@ -915,7 +968,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2015,
@@ -932,7 +986,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2019,
@@ -949,7 +1004,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2031,
@@ -966,7 +1022,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2033,
@@ -983,7 +1040,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2049,
@@ -1000,7 +1058,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2050,
@@ -1017,7 +1076,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2051,
@@ -1034,7 +1094,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 4,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2052,
@@ -1051,7 +1112,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2055,
@@ -1068,7 +1130,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2065,
@@ -1085,7 +1148,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2138,
@@ -1102,7 +1166,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2139,
@@ -1119,7 +1184,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2140,
@@ -1136,7 +1202,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2141,
@@ -1153,7 +1220,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2142,
@@ -1170,7 +1238,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2143,
@@ -1187,7 +1256,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2144,
@@ -1204,7 +1274,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 222051,
@@ -1221,7 +1292,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 4,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 222065,
@@ -1238,7 +1310,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223001,
@@ -1255,7 +1328,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223003,
@@ -1272,7 +1346,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223004,
@@ -1289,7 +1364,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223005,
@@ -1306,7 +1382,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 55
   },
   {
     "id": 223006,
@@ -1323,7 +1400,8 @@
     "attackSpeed": 0.45,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 30
   },
   {
     "id": 223009,
@@ -1340,7 +1418,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 70
   },
   {
     "id": 223011,
@@ -1357,7 +1436,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223020,
@@ -1374,7 +1454,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 55
   },
   {
     "id": 223026,
@@ -1391,7 +1472,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223031,
@@ -1408,7 +1490,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223033,
@@ -1425,7 +1508,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223036,
@@ -1442,7 +1526,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223039,
@@ -1459,7 +1544,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223040,
@@ -1476,7 +1562,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223042,
@@ -1493,7 +1580,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223046,
@@ -1510,7 +1598,8 @@
     "attackSpeed": 0.3,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.07
+    "moveSpeedPercent": 0.07,
+    "moveSpeed": 0.0
   },
   {
     "id": 223047,
@@ -1527,7 +1616,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 30
   },
   {
     "id": 223050,
@@ -1544,7 +1634,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223053,
@@ -1561,7 +1652,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223065,
@@ -1578,7 +1670,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223068,
@@ -1595,7 +1688,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223071,
@@ -1612,7 +1706,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223072,
@@ -1629,7 +1724,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.18,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223074,
@@ -1646,7 +1742,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.15,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223075,
@@ -1663,7 +1760,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223078,
@@ -1680,7 +1778,8 @@
     "attackSpeed": 0.33,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223084,
@@ -1697,7 +1796,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223085,
@@ -1714,7 +1814,8 @@
     "attackSpeed": 0.55,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.07
+    "moveSpeedPercent": 0.07,
+    "moveSpeed": 0.0
   },
   {
     "id": 223087,
@@ -1731,7 +1832,8 @@
     "attackSpeed": 0.3,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223089,
@@ -1748,7 +1850,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223091,
@@ -1765,7 +1868,8 @@
     "attackSpeed": 0.4,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223094,
@@ -1782,7 +1886,8 @@
     "attackSpeed": 0.15,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.07
+    "moveSpeedPercent": 0.07,
+    "moveSpeed": 0.0
   },
   {
     "id": 223095,
@@ -1799,7 +1904,8 @@
     "attackSpeed": 0.15,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223100,
@@ -1816,7 +1922,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.1
+    "moveSpeedPercent": 0.1,
+    "moveSpeed": 0.0
   },
   {
     "id": 223102,
@@ -1833,7 +1940,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223107,
@@ -1850,7 +1958,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223109,
@@ -1867,7 +1976,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223110,
@@ -1884,7 +1994,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223111,
@@ -1901,7 +2012,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 30
   },
   {
     "id": 223112,
@@ -1918,7 +2030,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223115,
@@ -1935,7 +2048,8 @@
     "attackSpeed": 0.45,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223116,
@@ -1952,7 +2066,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223119,
@@ -1969,7 +2084,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223121,
@@ -1986,7 +2102,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223124,
@@ -2003,7 +2120,8 @@
     "attackSpeed": 0.3,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223135,
@@ -2020,7 +2138,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223139,
@@ -2037,7 +2156,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223142,
@@ -2054,7 +2174,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223143,
@@ -2071,7 +2192,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223146,
@@ -2088,7 +2210,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223152,
@@ -2105,7 +2228,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223153,
@@ -2122,7 +2246,8 @@
     "attackSpeed": 0.25,
     "lifeSteal": 0.08,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223156,
@@ -2139,7 +2264,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223157,
@@ -2156,7 +2282,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223158,
@@ -2173,7 +2300,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 45
   },
   {
     "id": 223161,
@@ -2190,7 +2318,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223165,
@@ -2207,7 +2336,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223172,
@@ -2224,7 +2354,8 @@
     "attackSpeed": 0.5,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.1
+    "moveSpeedPercent": 0.1,
+    "moveSpeed": 0.0
   },
   {
     "id": 223177,
@@ -2241,7 +2372,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223181,
@@ -2258,7 +2390,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.05
+    "moveSpeedPercent": 0.05,
+    "moveSpeed": 0.0
   },
   {
     "id": 223184,
@@ -2275,7 +2408,8 @@
     "attackSpeed": 0.35,
     "lifeSteal": 0.1,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223185,
@@ -2292,7 +2426,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223190,
@@ -2309,7 +2444,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223193,
@@ -2326,7 +2462,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223222,
@@ -2343,7 +2480,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223504,
@@ -2360,7 +2498,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.05
+    "moveSpeedPercent": 0.05,
+    "moveSpeed": 0.0
   },
   {
     "id": 223508,
@@ -2377,7 +2516,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223742,
@@ -2394,7 +2534,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.07
+    "moveSpeedPercent": 0.07,
+    "moveSpeed": 0.0
   },
   {
     "id": 223748,
@@ -2411,7 +2552,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 223814,
@@ -2428,7 +2570,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 224004,
@@ -2445,7 +2588,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 224005,
@@ -2462,7 +2606,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 224401,
@@ -2479,7 +2624,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.05
+    "moveSpeedPercent": 0.05,
+    "moveSpeed": 0.0
   },
   {
     "id": 224403,
@@ -2496,7 +2642,8 @@
     "attackSpeed": 0.5,
     "lifeSteal": 0.1,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.1
+    "moveSpeedPercent": 0.1,
+    "moveSpeed": 0.0
   },
   {
     "id": 224628,
@@ -2513,7 +2660,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 224629,
@@ -2530,7 +2678,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.05
+    "moveSpeedPercent": 0.05,
+    "moveSpeed": 0.0
   },
   {
     "id": 224633,
@@ -2547,7 +2696,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 224636,
@@ -2564,7 +2714,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 224637,
@@ -2581,7 +2732,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 224644,
@@ -2598,7 +2750,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 224645,
@@ -2615,7 +2768,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226035,
@@ -2632,7 +2786,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226333,
@@ -2649,7 +2804,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226609,
@@ -2666,7 +2822,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226616,
@@ -2683,7 +2840,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.15
+    "moveSpeedPercent": 0.15,
+    "moveSpeed": 0.0
   },
   {
     "id": 226617,
@@ -2700,7 +2858,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226620,
@@ -2717,7 +2876,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226630,
@@ -2734,7 +2894,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226631,
@@ -2751,7 +2912,8 @@
     "attackSpeed": 0.2,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226632,
@@ -2768,7 +2930,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226653,
@@ -2785,7 +2948,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226655,
@@ -2802,7 +2966,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226656,
@@ -2819,7 +2984,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226657,
@@ -2836,7 +3002,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226662,
@@ -2853,7 +3020,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226664,
@@ -2870,7 +3038,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226665,
@@ -2887,7 +3056,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226667,
@@ -2904,7 +3074,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226671,
@@ -2921,7 +3092,8 @@
     "attackSpeed": 0.25,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.07
+    "moveSpeedPercent": 0.07,
+    "moveSpeed": 0.0
   },
   {
     "id": 226672,
@@ -2938,7 +3110,8 @@
     "attackSpeed": 0.3,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226673,
@@ -2955,7 +3128,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.1,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226675,
@@ -2972,7 +3146,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226676,
@@ -2989,7 +3164,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226691,
@@ -3006,7 +3182,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226692,
@@ -3023,7 +3200,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226693,
@@ -3040,7 +3218,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226694,
@@ -3057,7 +3236,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226695,
@@ -3074,7 +3254,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 226696,
@@ -3091,7 +3272,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227001,
@@ -3108,7 +3290,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227002,
@@ -3125,7 +3308,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227005,
@@ -3142,7 +3326,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227006,
@@ -3159,7 +3344,8 @@
     "attackSpeed": 0.4,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.1
+    "moveSpeedPercent": 0.1,
+    "moveSpeed": 0.0
   },
   {
     "id": 227009,
@@ -3176,7 +3362,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227010,
@@ -3193,7 +3380,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227011,
@@ -3210,7 +3398,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227012,
@@ -3227,7 +3416,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227013,
@@ -3244,7 +3434,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227014,
@@ -3261,7 +3452,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227015,
@@ -3278,7 +3470,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227016,
@@ -3295,7 +3488,8 @@
     "attackSpeed": 0.3,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227017,
@@ -3312,7 +3506,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227018,
@@ -3329,7 +3524,8 @@
     "attackSpeed": 0.45,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227019,
@@ -3346,7 +3542,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227020,
@@ -3363,7 +3560,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227021,
@@ -3380,7 +3578,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227023,
@@ -3397,7 +3596,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227024,
@@ -3414,7 +3614,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227025,
@@ -3431,7 +3632,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227026,
@@ -3448,7 +3650,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227027,
@@ -3465,7 +3668,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227028,
@@ -3482,7 +3686,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227029,
@@ -3499,7 +3704,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227030,
@@ -3516,7 +3722,8 @@
     "attackSpeed": 0.4,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227031,
@@ -3533,7 +3740,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227032,
@@ -3550,7 +3758,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 227033,
@@ -3567,7 +3776,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 228001,
@@ -3584,7 +3794,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 228020,
@@ -3601,7 +3812,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2403,
@@ -3618,7 +3830,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2419,
@@ -3635,7 +3848,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2420,
@@ -3652,7 +3866,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2421,
@@ -3669,7 +3884,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2422,
@@ -3686,7 +3902,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 25
   },
   {
     "id": 2423,
@@ -3703,7 +3920,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 2424,
@@ -3720,7 +3938,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3001,
@@ -3737,7 +3956,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3003,
@@ -3754,7 +3974,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3004,
@@ -3771,7 +3992,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3006,
@@ -3788,7 +4010,8 @@
     "attackSpeed": 0.35,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 45
   },
   {
     "id": 3009,
@@ -3805,7 +4028,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 60
   },
   {
     "id": 3011,
@@ -3822,7 +4046,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3012,
@@ -3839,7 +4064,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3020,
@@ -3856,7 +4082,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 45
   },
   {
     "id": 3023,
@@ -3873,7 +4100,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3024,
@@ -3890,7 +4118,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3026,
@@ -3907,7 +4136,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3031,
@@ -3924,7 +4154,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3033,
@@ -3941,7 +4172,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3035,
@@ -3958,7 +4190,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3036,
@@ -3975,7 +4208,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3040,
@@ -3992,7 +4226,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3041,
@@ -4009,7 +4244,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3042,
@@ -4026,7 +4262,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3044,
@@ -4043,7 +4280,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3046,
@@ -4060,7 +4298,8 @@
     "attackSpeed": 0.35,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.07
+    "moveSpeedPercent": 0.07,
+    "moveSpeed": 0.0
   },
   {
     "id": 3047,
@@ -4077,7 +4316,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 45
   },
   {
     "id": 3050,
@@ -4094,7 +4334,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3051,
@@ -4111,7 +4352,8 @@
     "attackSpeed": 0.15,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3053,
@@ -4128,7 +4370,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3057,
@@ -4145,7 +4388,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3065,
@@ -4162,7 +4406,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3066,
@@ -4179,7 +4424,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3067,
@@ -4196,7 +4442,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3068,
@@ -4213,7 +4460,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3070,
@@ -4230,7 +4478,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3071,
@@ -4247,7 +4496,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3072,
@@ -4264,7 +4514,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.18,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3074,
@@ -4281,7 +4532,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.1,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3075,
@@ -4298,7 +4550,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3076,
@@ -4315,7 +4568,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3077,
@@ -4332,7 +4586,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3078,
@@ -4349,7 +4604,8 @@
     "attackSpeed": 0.33,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3082,
@@ -4366,7 +4622,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3083,
@@ -4383,7 +4640,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3084,
@@ -4400,7 +4658,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3085,
@@ -4417,7 +4676,8 @@
     "attackSpeed": 0.4,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.07
+    "moveSpeedPercent": 0.07,
+    "moveSpeed": 0.0
   },
   {
     "id": 3086,
@@ -4434,7 +4694,8 @@
     "attackSpeed": 0.15,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.05
+    "moveSpeedPercent": 0.05,
+    "moveSpeed": 0.0
   },
   {
     "id": 3087,
@@ -4451,7 +4712,8 @@
     "attackSpeed": 0.3,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3089,
@@ -4468,7 +4730,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3091,
@@ -4485,7 +4748,8 @@
     "attackSpeed": 0.4,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3094,
@@ -4502,7 +4766,8 @@
     "attackSpeed": 0.15,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.07
+    "moveSpeedPercent": 0.07,
+    "moveSpeed": 0.0
   },
   {
     "id": 3095,
@@ -4519,7 +4784,8 @@
     "attackSpeed": 0.15,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3100,
@@ -4536,7 +4802,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.08
+    "moveSpeedPercent": 0.08,
+    "moveSpeed": 0.0
   },
   {
     "id": 3102,
@@ -4553,7 +4820,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3105,
@@ -4570,7 +4838,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3107,
@@ -4587,7 +4856,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3108,
@@ -4604,7 +4874,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3109,
@@ -4621,7 +4892,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3110,
@@ -4638,7 +4910,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3111,
@@ -4655,7 +4928,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 45
   },
   {
     "id": 3112,
@@ -4672,7 +4946,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3113,
@@ -4689,7 +4964,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3114,
@@ -4706,7 +4982,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3115,
@@ -4723,7 +5000,8 @@
     "attackSpeed": 0.5,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3116,
@@ -4740,7 +5018,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3117,
@@ -4757,7 +5036,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 115
   },
   {
     "id": 3119,
@@ -4774,7 +5054,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3121,
@@ -4791,7 +5072,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3123,
@@ -4808,7 +5090,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3124,
@@ -4825,7 +5108,8 @@
     "attackSpeed": 0.25,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3128,
@@ -4842,7 +5126,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3133,
@@ -4859,7 +5144,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3134,
@@ -4876,7 +5162,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3135,
@@ -4893,7 +5180,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3139,
@@ -4910,7 +5198,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3140,
@@ -4927,7 +5216,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3142,
@@ -4944,7 +5234,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3143,
@@ -4961,7 +5252,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3145,
@@ -4978,7 +5270,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3152,
@@ -4995,7 +5288,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3153,
@@ -5012,7 +5306,8 @@
     "attackSpeed": 0.25,
     "lifeSteal": 0.08,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3155,
@@ -5029,7 +5324,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3156,
@@ -5046,7 +5342,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3157,
@@ -5063,7 +5360,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3158,
@@ -5080,7 +5378,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 45
   },
   {
     "id": 3161,
@@ -5097,7 +5396,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3165,
@@ -5114,7 +5414,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3177,
@@ -5131,7 +5432,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3179,
@@ -5148,7 +5450,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3181,
@@ -5165,7 +5468,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.05
+    "moveSpeedPercent": 0.05,
+    "moveSpeed": 0.0
   },
   {
     "id": 3184,
@@ -5182,7 +5486,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.07,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3190,
@@ -5199,7 +5504,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3191,
@@ -5216,7 +5522,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3193,
@@ -5233,7 +5540,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3211,
@@ -5250,7 +5558,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3222,
@@ -5267,7 +5576,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3330,
@@ -5284,7 +5594,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3340,
@@ -5301,7 +5612,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3348,
@@ -5318,7 +5630,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3349,
@@ -5335,7 +5648,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3363,
@@ -5352,7 +5666,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3364,
@@ -5369,7 +5684,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3400,
@@ -5386,7 +5702,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3430,
@@ -5403,7 +5720,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3504,
@@ -5420,7 +5738,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.05
+    "moveSpeedPercent": 0.05,
+    "moveSpeed": 0.0
   },
   {
     "id": 3508,
@@ -5437,7 +5756,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3513,
@@ -5454,7 +5774,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3599,
@@ -5471,7 +5792,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3600,
@@ -5488,7 +5810,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3742,
@@ -5505,7 +5828,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.05
+    "moveSpeedPercent": 0.05,
+    "moveSpeed": 0.0
   },
   {
     "id": 3748,
@@ -5522,7 +5846,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3801,
@@ -5539,7 +5864,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3802,
@@ -5556,7 +5882,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3803,
@@ -5573,7 +5900,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3814,
@@ -5590,7 +5918,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3850,
@@ -5607,7 +5936,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3851,
@@ -5624,7 +5954,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3853,
@@ -5641,7 +5972,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3854,
@@ -5658,7 +5990,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3855,
@@ -5675,7 +6008,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3857,
@@ -5692,7 +6026,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3858,
@@ -5709,7 +6044,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3859,
@@ -5726,7 +6062,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3860,
@@ -5743,7 +6080,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3862,
@@ -5760,7 +6098,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3863,
@@ -5777,7 +6116,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3864,
@@ -5794,7 +6134,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3901,
@@ -5811,7 +6152,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3902,
@@ -5828,7 +6170,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3903,
@@ -5845,7 +6188,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 3916,
@@ -5862,7 +6206,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4005,
@@ -5879,7 +6224,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4010,
@@ -5896,7 +6242,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4401,
@@ -5913,7 +6260,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.05
+    "moveSpeedPercent": 0.05,
+    "moveSpeed": 0.0
   },
   {
     "id": 4403,
@@ -5930,7 +6278,8 @@
     "attackSpeed": 0.5,
     "lifeSteal": 0.1,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.1
+    "moveSpeedPercent": 0.1,
+    "moveSpeed": 0.0
   },
   {
     "id": 4628,
@@ -5947,7 +6296,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4629,
@@ -5964,7 +6314,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.05
+    "moveSpeedPercent": 0.05,
+    "moveSpeed": 0.0
   },
   {
     "id": 4630,
@@ -5981,7 +6332,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4632,
@@ -5998,7 +6350,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4633,
@@ -6015,7 +6368,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4635,
@@ -6032,7 +6386,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4636,
@@ -6049,7 +6404,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4637,
@@ -6066,7 +6422,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4638,
@@ -6083,7 +6440,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4641,
@@ -6100,7 +6458,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4642,
@@ -6117,7 +6476,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4643,
@@ -6134,7 +6494,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4644,
@@ -6151,7 +6512,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 4645,
@@ -6168,7 +6530,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6029,
@@ -6185,7 +6548,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6035,
@@ -6202,7 +6566,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6333,
@@ -6219,7 +6584,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6609,
@@ -6236,7 +6602,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6616,
@@ -6253,7 +6620,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.05
+    "moveSpeedPercent": 0.05,
+    "moveSpeed": 0.0
   },
   {
     "id": 6617,
@@ -6270,7 +6638,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6620,
@@ -6287,7 +6656,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6630,
@@ -6304,7 +6674,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6631,
@@ -6321,7 +6692,8 @@
     "attackSpeed": 0.2,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6632,
@@ -6338,7 +6710,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6653,
@@ -6355,7 +6728,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6655,
@@ -6372,7 +6746,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6656,
@@ -6389,7 +6764,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6657,
@@ -6406,7 +6782,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6660,
@@ -6423,7 +6800,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6662,
@@ -6440,7 +6818,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6664,
@@ -6457,7 +6836,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6665,
@@ -6474,7 +6854,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6667,
@@ -6491,7 +6872,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6670,
@@ -6508,7 +6890,8 @@
     "attackSpeed": 0.15,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6671,
@@ -6525,7 +6908,8 @@
     "attackSpeed": 0.15,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.07
+    "moveSpeedPercent": 0.07,
+    "moveSpeed": 0.0
   },
   {
     "id": 6672,
@@ -6542,7 +6926,8 @@
     "attackSpeed": 0.3,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6673,
@@ -6559,7 +6944,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.1,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6675,
@@ -6576,7 +6962,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6676,
@@ -6593,7 +6980,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6677,
@@ -6610,7 +6998,8 @@
     "attackSpeed": 0.25,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6691,
@@ -6627,7 +7016,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6692,
@@ -6644,7 +7034,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6693,
@@ -6661,7 +7052,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6694,
@@ -6678,7 +7070,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6695,
@@ -6695,7 +7088,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 6696,
@@ -6712,7 +7106,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7000,
@@ -6729,7 +7124,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7001,
@@ -6746,7 +7142,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7002,
@@ -6763,7 +7160,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7005,
@@ -6780,7 +7178,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7006,
@@ -6797,7 +7196,8 @@
     "attackSpeed": 0.3,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.1
+    "moveSpeedPercent": 0.1,
+    "moveSpeed": 0.0
   },
   {
     "id": 7009,
@@ -6814,7 +7214,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7010,
@@ -6831,7 +7232,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7011,
@@ -6848,7 +7250,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7012,
@@ -6865,7 +7268,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7013,
@@ -6882,7 +7286,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7014,
@@ -6899,7 +7304,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7015,
@@ -6916,7 +7322,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7016,
@@ -6933,7 +7340,8 @@
     "attackSpeed": 0.3,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7017,
@@ -6950,7 +7358,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7018,
@@ -6967,7 +7376,8 @@
     "attackSpeed": 0.43,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7019,
@@ -6984,7 +7394,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7020,
@@ -7001,7 +7412,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7021,
@@ -7018,7 +7430,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7023,
@@ -7035,7 +7448,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7024,
@@ -7052,7 +7466,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7025,
@@ -7069,7 +7484,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7026,
@@ -7086,7 +7502,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7027,
@@ -7103,7 +7520,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7028,
@@ -7120,7 +7538,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7029,
@@ -7137,7 +7556,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7030,
@@ -7154,7 +7574,8 @@
     "attackSpeed": 0.35,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7031,
@@ -7171,7 +7592,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7032,
@@ -7188,7 +7610,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7033,
@@ -7205,7 +7628,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 7050,
@@ -7222,7 +7646,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 8001,
@@ -7239,7 +7664,8 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   },
   {
     "id": 8020,
@@ -7256,6 +7682,7 @@
     "attackSpeed": 0.0,
     "lifeSteal": 0.0,
     "hpRegen": 0.0,
-    "movementSpeedPercent": 0.0
+    "moveSpeedPercent": 0.0,
+    "moveSpeed": 0.0
   }
 ]
